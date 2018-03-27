@@ -1,0 +1,2 @@
+insert into websites(id, title, description, image, url, prettyname) values(1, 'Gazeta Sporturilor', 'ceva descriere', './src/assets/gsp.png', 'http://www.gsp.ro', 'gazeta-sporturilor');
+insert into websites(id, title, description, image, url, prettyname) values(2, 'Prosport', 'ceva descriere', './src/assets/prosport.png', 'http://www.prosport.ro', 'prosport');
